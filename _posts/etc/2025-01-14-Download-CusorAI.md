@@ -29,7 +29,7 @@ CursorAI는 VSCode 기반의 AI 코딩 도우미 에디터이다. GPT-4 기술�
 ## 다운로드 방법
 
 ### 1. 공식 웹사이트 방문
-- [Cursor.so](https://cursor.so) 접속
+- [Cursor.so](https://cursor.so){: target="_blank"} 접속
 - 또는 구글에 cursorai 검색
 ![cursorai_search](assets/img/etc/cursorai_search.jpg)
 
