@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Computer Architecture] CPU 심화"
-date: 2025-04-13 14:45 +09:00
+date: 2025-04-14 14:45 +09:00
 categories: cs computerarchitecture
 tags:
     [
