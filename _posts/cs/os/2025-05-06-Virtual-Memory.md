@@ -145,7 +145,7 @@ getconf PAGESIZE
 
 ### 문제: 스래싱 (Thrashing)  
 
-![철학자 문제](assets/img/cs/thrashing.png)  
+![스래싱](assets/img/cs/thrashing.png)  
 <sub>출처: 『혼자 공부하는 컴퓨터 구조+운영체제』 - 강민철 저</sub>
 
 - 프로세스가 페이징에만 시간을 소비 → 성능 급감
